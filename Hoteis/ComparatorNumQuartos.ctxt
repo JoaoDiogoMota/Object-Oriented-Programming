@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ComparatorNumQuartos
+comment0.text=\n\ Write\ a\ description\ of\ class\ ComparatorNumQuartos\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=h1\ h2
+comment1.target=int\ compare(Hotel,\ Hotel)
+numComments=2

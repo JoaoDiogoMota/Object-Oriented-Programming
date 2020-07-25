@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=HotelPremium
+comment0.text=\n\ Write\ a\ description\ of\ class\ HotelPremium\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=HotelPremium()
+comment2.params=tl
+comment2.target=HotelPremium(double)
+comment3.params=h
+comment3.target=HotelPremium(HotelPremium)
+comment4.params=
+comment4.target=double\ getTaxaLuxo()
+comment5.params=pontos
+comment5.target=void\ setPontos(int)
+comment6.params=
+comment6.target=int\ getPontos()
+numComments=7
